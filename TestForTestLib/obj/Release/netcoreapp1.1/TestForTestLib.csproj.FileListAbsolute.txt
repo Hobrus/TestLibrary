@@ -1,0 +1,15 @@
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\bin\Release\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\bin\Release\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\bin\Release\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\bin\Release\netcoreapp1.1\TestForTestLib.deps.json
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\bin\Release\netcoreapp1.1\TestForTestLib.runtimeconfig.json
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\bin\Release\netcoreapp1.1\TestForTestLib.runtimeconfig.dev.json
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\bin\Release\netcoreapp1.1\TestForTestLib.dll
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\bin\Release\netcoreapp1.1\TestForTestLib.pdb
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\bin\Release\netcoreapp1.1\TestLib.dll
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\bin\Release\netcoreapp1.1\TestLib.pdb
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\obj\Release\netcoreapp1.1\TestForTestLib.csprojResolveAssemblyReference.cache
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\obj\Release\netcoreapp1.1\TestForTestLib.csproj.CoreCompileInputs.cache
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\obj\Release\netcoreapp1.1\TestForTestLib.AssemblyInfo.cs
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\obj\Release\netcoreapp1.1\TestForTestLib.dll
+C:\Users\Хобрус\source\repos\TestLib\TestForTestLib\obj\Release\netcoreapp1.1\TestForTestLib.pdb

@@ -1,0 +1,8 @@
+C:\Users\Хобрус\source\repos\TestLib\TestLib\bin\Debug\netstandard1.4\TestLib.deps.json
+C:\Users\Хобрус\source\repos\TestLib\TestLib\bin\Debug\netstandard1.4\TestLib.dll
+C:\Users\Хобрус\source\repos\TestLib\TestLib\bin\Debug\netstandard1.4\TestLib.pdb
+C:\Users\Хобрус\source\repos\TestLib\TestLib\obj\Debug\netstandard1.4\TestLib.csprojResolveAssemblyReference.cache
+C:\Users\Хобрус\source\repos\TestLib\TestLib\obj\Debug\netstandard1.4\TestLib.csproj.CoreCompileInputs.cache
+C:\Users\Хобрус\source\repos\TestLib\TestLib\obj\Debug\netstandard1.4\TestLib.AssemblyInfo.cs
+C:\Users\Хобрус\source\repos\TestLib\TestLib\obj\Debug\netstandard1.4\TestLib.dll
+C:\Users\Хобрус\source\repos\TestLib\TestLib\obj\Debug\netstandard1.4\TestLib.pdb
